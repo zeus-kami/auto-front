@@ -1,0 +1,15 @@
+/workspaces/auto-front/bin/Debug/net8.0/auto-front
+/workspaces/auto-front/bin/Debug/net8.0/auto-front.deps.json
+/workspaces/auto-front/bin/Debug/net8.0/auto-front.runtimeconfig.json
+/workspaces/auto-front/bin/Debug/net8.0/auto-front.dll
+/workspaces/auto-front/bin/Debug/net8.0/auto-front.pdb
+/workspaces/auto-front/obj/Debug/net8.0/auto-front.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/auto-front/obj/Debug/net8.0/auto-front.AssemblyInfoInputs.cache
+/workspaces/auto-front/obj/Debug/net8.0/auto-front.AssemblyInfo.cs
+/workspaces/auto-front/obj/Debug/net8.0/auto-front.csproj.CoreCompileInputs.cache
+/workspaces/auto-front/obj/Debug/net8.0/auto-front.sourcelink.json
+/workspaces/auto-front/obj/Debug/net8.0/auto-front.dll
+/workspaces/auto-front/obj/Debug/net8.0/refint/auto-front.dll
+/workspaces/auto-front/obj/Debug/net8.0/auto-front.pdb
+/workspaces/auto-front/obj/Debug/net8.0/auto-front.genruntimeconfig.cache
+/workspaces/auto-front/obj/Debug/net8.0/ref/auto-front.dll
