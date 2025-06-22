@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("auto-front")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7c820ea9d7f04c956996d786ede5f3539a44265")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d09f63d7ed07c6c238c8a6e31e52316c2c4c113")]
 [assembly: System.Reflection.AssemblyProductAttribute("auto-front")]
 [assembly: System.Reflection.AssemblyTitleAttribute("auto-front")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
